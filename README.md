@@ -17,6 +17,14 @@
 10. Raspberry Pi
 
 **Architecture Diagram**
-
 ![Alt text](https://drive.google.com/uc?export=view&id=1uh23GyMPzvpFyNY1F2dJpVzYajQ_hqYL)
+
+**Locker & Panel**
+
+**Web for Admin**
+use Node-RED
+
+
+
+
 
