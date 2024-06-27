@@ -17,7 +17,7 @@
 10. Raspberry Pi
 
 **Architecture Diagram**
-![Alt text](https://drive.google.com/uc?export=view&id=1U662se_A68ZSip8u1zwJz6i9zSoaAYSD)
+<img src="https://i.ibb.co/5144qqx/2024-06-27-15-06-53.png" alt="2024-06-27-15-06-53" border="0">
 
 
 **Locker & Panel**
