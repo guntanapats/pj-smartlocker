@@ -21,6 +21,7 @@
 
 
 **Locker & Panel**
+<a href="https://drive.google.com/file/d/19mAUs4rIZ7XhYwJnbtnUdmiTLrrYFU4M/view?usp=drive_link">See Demo</a>
 
 **Web for Admin**
 use Node-RED
