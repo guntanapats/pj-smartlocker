@@ -2,7 +2,7 @@
 **Part of SmartLocker**
 1. Panel
 2. Locker
-3. Mqtt Broker(Raspberry Pi
+3. Mqtt Broker(Raspberry Pi)
 
 **Tool**
 1. Keypad
@@ -17,7 +17,8 @@
 10. Raspberry Pi
 
 **Architecture Diagram**
-![Alt text](https://drive.google.com/uc?export=view&id=1uh23GyMPzvpFyNY1F2dJpVzYajQ_hqYL)
+![Alt text](https://drive.google.com/uc?export=view&id=1U662se_A68ZSip8u1zwJz6i9zSoaAYSD)
+
 
 **Locker & Panel**
 
