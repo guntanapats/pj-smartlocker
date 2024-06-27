@@ -27,7 +27,8 @@
 
 **Web for Admin**
 use Node-RED
-
+<img src="https://i.ibb.co/fnNbPTN/2024-06-27-15-50-34.png" alt="2024-06-27-15-50-34" border="0">
+<img src="https://i.ibb.co/hHLCwXW/2024-06-27-15-49-50.png" alt="2024-06-27-15-49-50" border="0">
 
 
 
