@@ -21,8 +21,8 @@
 
 
 **Locker & Panel**
-<br>
 <img src="https://i.ibb.co/VBskH7x/d9236203-0fda-45ba-b387-028208e8b59b.jpg" alt="d9236203-0fda-45ba-b387-028208e8b59b" border="0">
+<br>
  <a href="https://drive.google.com/file/d/19mAUs4rIZ7XhYwJnbtnUdmiTLrrYFU4M/view?usp=drive_link">Demo</a>
  </br>
 
